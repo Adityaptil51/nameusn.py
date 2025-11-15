@@ -1,4 +1,4 @@
-name = input("Enter your name:")
-usn = input("Enter your usn:")
-print(f"Name: {name}")
-print(f"USN: {usn}")
+name = "Raja"
+usn = "120"
+print(f"My Name is: {name}")
+print(f"My USN is: {usn}")
